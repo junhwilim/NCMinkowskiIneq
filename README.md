@@ -1,4 +1,4 @@
 # NCMinkowskiIneq
-MATLAB codes for computations in Lim, Noncommutative Minkowski integral inequality and a unitary categorification criterion for fusion rings, 2026. arXiv:2601.13490.
+MATLAB codes for computations in "J. Lim, Noncommutative Minkowski integral inequality and a unitary categorification criterion for fusion rings, 2026. arXiv:2601.13490."
 To load computation result, run the command "load('FusionRingDataSet_Solutions.mat', 'FusionRingDataSet_Solutions')".
 To run a new computation, run FusionRingDataSet0.m.
